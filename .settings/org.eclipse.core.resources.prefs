@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/main/java/service/TuLanhService.java=UTF-8
+encoding//src/main/java/servlet/Demo.java=UTF-8
+encoding//src/main/java/servlet/InsertTuLanhServlet.java=UTF-8
+encoding//src/main/java/servlet/LoginServlet.java=UTF-8
+encoding//src/main/java/servlet/ModifieldTuLanhServlet.java=UTF-8
+encoding//src/main/java/servlet/TuLanhServlet.java=UTF-8
+encoding//src/main/webapp/WEB-INF/view/home.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/view/insert.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/view/login.jsp=UTF-8
